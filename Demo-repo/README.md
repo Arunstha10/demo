@@ -3,7 +3,6 @@
 This is a Demo!!!
 
 
-#Subheader
+ ## local development
 
-
-Hello This is the change. 
+ 1. Open index.html in your browser.
